@@ -2,5 +2,5 @@
   "name": "disposable-mailbox",
   "description": "self-hosted disposable email service (php) using catch-all and imap",
   "repository": "https://github.com/easella/disposable-mailbox-1",
-  "website": "https://www.disposable-mailbox.eu/"
+    "logo": "https://raw.githubusercontent.com/binary-person/womginx/master/public/logo.png"
 }
